@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Rates calculator\Rates calculator\bin\Release\Rates calculator.exe.config
+C:\Users\User\source\repos\Rates calculator\Rates calculator\bin\Release\Rates calculator.exe.manifest
+C:\Users\User\source\repos\Rates calculator\Rates calculator\bin\Release\Rates calculator.application
+C:\Users\User\source\repos\Rates calculator\Rates calculator\bin\Release\Rates calculator.exe
+C:\Users\User\source\repos\Rates calculator\Rates calculator\bin\Release\Rates calculator.pdb
+C:\Users\User\source\repos\Rates calculator\Rates calculator\bin\Release\Excel.dll
+C:\Users\User\source\repos\Rates calculator\Rates calculator\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\User\source\repos\Rates calculator\Rates calculator\obj\Release\Rates calculator.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Rates calculator\Rates calculator\obj\Release\Rates_calculator.Form1.resources
+C:\Users\User\source\repos\Rates calculator\Rates calculator\obj\Release\Rates_calculator.Properties.Resources.resources
+C:\Users\User\source\repos\Rates calculator\Rates calculator\obj\Release\Rates calculator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Rates calculator\Rates calculator\obj\Release\Rates calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Rates calculator\Rates calculator\obj\Release\Rates calculator.exe.manifest
+C:\Users\User\source\repos\Rates calculator\Rates calculator\obj\Release\Rates calculator.application
+C:\Users\User\source\repos\Rates calculator\Rates calculator\obj\Release\Rates calculator.csproj.CopyComplete
+C:\Users\User\source\repos\Rates calculator\Rates calculator\obj\Release\Rates calculator.exe
+C:\Users\User\source\repos\Rates calculator\Rates calculator\obj\Release\Rates calculator.pdb
